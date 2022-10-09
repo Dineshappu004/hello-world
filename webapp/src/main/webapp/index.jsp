@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Diyan Virtual Works</title>
+        <title>Diyan Virtual Works...</title>
         <link rel="icon" href="img/camera.png">
 <!-- 
 Moonlight Template 
